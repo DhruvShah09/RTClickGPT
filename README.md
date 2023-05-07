@@ -3,6 +3,13 @@ A Chrome Extension For Generating ChatGPT completions to the clipboard.
 
 Note: This project was put together in a few hours on a random Saturday, and may or may not be supported and extended in the future. 
 
+
+
+
+https://user-images.githubusercontent.com/90000344/236698543-6a33bff6-654f-4910-a752-52272d4979e8.mov
+
+
+
 ## Download Instructions: 
 
 To load the unpacked Chrome extension, you will need:
