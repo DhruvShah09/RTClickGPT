@@ -30,7 +30,7 @@ Note: You might have to refresh the page you are on to activate the extension.
 1. Ensure that the extension is installed. 
 2. Navigate to the extension on the chrome page, and click on the extension -- enter your API key here. 
 3. Select the text you wish to search for, and right click. 
-4. Select Additional Information. 
+4. Select "Additional Information". This option is provided by this extension, and looks discrete. 
 5. Wait for the completion to be generated [hint: click anywhere on the page and right click to view the progress] 
 6. Done! Your completion is now in your clipboard! 
 
