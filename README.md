@@ -36,3 +36,9 @@ Note: You might have to refresh the page you are on to activate the extension.
 
 
 ![Screen Shot 2023-05-07 at 3 04 49 PM](https://user-images.githubusercontent.com/90000344/236697710-6417325c-0f4a-455e-ad83-447d37c94a54.png)
+
+### Tips 
+
+- The first time you use the extension on a website, you may need to give it clipboard permissions
+- The ChatGPT API takes time to generate completions, patience is a virtue, right click on the portion of the page where you haven't selected text to view progress. 
+
