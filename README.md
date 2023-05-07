@@ -9,7 +9,7 @@ To load the unpacked Chrome extension, you will need:
 
 - A Google Chrome browser installed on your device.
 
-## Steps
+### Steps
 
 Follow these steps to load an unpacked Chrome extension:
 
@@ -25,3 +25,14 @@ Follow these steps to load an unpacked Chrome extension:
 
 Note: You might have to refresh the page you are on to activate the extension.
 
+## Usage 
+
+1. Ensure that the extension is installed. 
+2. Navigate to the extension on the chrome page, and click on the extension -- enter your API key here. 
+3. Select the text you wish to search for, and right click. 
+4. Select Additional Information. 
+5. Wait for the completion to be generated [hint: click anywhere on the page and right click to view the progress] 
+6. Done! Your completion is now in your clipboard! 
+
+
+![Screen Shot 2023-05-07 at 3 04 49 PM](https://user-images.githubusercontent.com/90000344/236697710-6417325c-0f4a-455e-ad83-447d37c94a54.png)
