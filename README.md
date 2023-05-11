@@ -20,7 +20,7 @@ To load the unpacked Chrome extension, you will need:
 
 Follow these steps to load the unpacked Chrome extension:
 
-1. Download the extension code from the repository or from the source you received it.
+1. Download the extension code from this repository.
 2. Extract the downloaded file to a folder on your device. This folder should contain all the extension files.
 3. Open Google Chrome.
 4. In the address bar of your Chrome browser, type `chrome://extensions/` and press enter.
